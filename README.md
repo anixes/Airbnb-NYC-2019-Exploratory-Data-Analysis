@@ -15,6 +15,7 @@ How do reviews and availability relate to listing popularity?
 The enriched Jupyter Notebook includes guiding questions, visualizations, and detailed insights for each analysis step.
 
 Key Analyses
+
 🔹 Basic Understanding
 
 Number of hosts and listings
